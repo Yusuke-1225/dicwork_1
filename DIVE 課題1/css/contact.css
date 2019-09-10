@@ -1,0 +1,41 @@
+/* th .aaa{
+  width: 400px;
+} */
+
+/* .content input{
+  /* width: 480px; */
+  /* margin-left: 150px;
+/* }  */
+
+.contact-form{
+  border-collapse: separate;
+  border-spacing: 0px 15px;
+}
+
+.content textarea{
+  width: 480px;
+  /* margin-left: 150px; */
+  height: 7rem;
+}
+
+.submit input{
+  height: 40px;
+  width: 100px;
+  margin-left: 650px;
+  background: #0bd;
+  color:#fff;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.submit input:hover{
+  background-image: linear-gradient(0deg, #68d3db, #e5f4fc);
+  border: 1px solid #2c628b
+}
+
+.aaa{
+  width: 150px;
+}
+
+.uuu{
+  width: 480px;
+}
